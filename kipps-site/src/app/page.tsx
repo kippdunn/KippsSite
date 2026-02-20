@@ -1,4 +1,4 @@
-import { ArticleListItem } from "@/components/ArticleListItem"
+import ArticleListItem from "@/components/ArticleListItem"
 import { getCategorisedArticles } from "@/lib/articles"
 
 const HomePage = () => {
@@ -12,7 +12,10 @@ const HomePage = () => {
       </header>
       <section className="md:grid md:grid-cols-2 flex flex-col gap-10">
         {articles !== null && Object.keys(articles).map(article => (
-          <ArticleListItem key={article} category={article} articles={articles[article]} />
+          <ArticleListItem 
+            category={article}
+            articles={articles[article]}
+            key={article} />
         ))}
       </section>
     </section>
