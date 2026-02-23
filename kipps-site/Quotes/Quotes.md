@@ -1,5 +1,3 @@
-# My favorite quotes
-
 > The greatest evils in this world winll not be carried out by men with guns, but by men in suits sitting behind desks. - _C. S. Lewis_
 
 > Leave nothing for tomorrow which can be done today - _Abraham Lincoln_

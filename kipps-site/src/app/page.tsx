@@ -10,6 +10,14 @@ const HomePage = () => {
       <header className="font-cormorant-garamond font-light text-6xl text-neutral-900 text-center">
         <h1>Kipp's Blog</h1>
       </header>
+      <div className="flex justify-center mb-4">
+        <a
+          href="/quotes"
+          className="inline-block rounded bg-neutral-200 px-4 py-2 text-neutral-700 hover:bg-neutral-300 font-poppins transition-colors duration-150 shadow"
+        >
+          View Favorite Quotes
+        </a>
+      </div>
       <section className="md:grid md:grid-cols-2 flex flex-col gap-10">
         {articles !== null && Object.keys(articles).map(article => (
           <ArticleListItem 

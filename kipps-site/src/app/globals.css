@@ -28,7 +28,7 @@
 }
 
 .article > blockquote {
-  @apply pl-5 italic border-l-2 border-neutral-600;
+  @apply pl-5 italic border-l-2 border-neutral-600 my-8;
 }
 
 .article > p > img {
