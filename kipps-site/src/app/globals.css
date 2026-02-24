@@ -8,11 +8,11 @@
 }
 
 .article > h1 {
-  @apply text-4xl text-center tracking-tight;
+  @apply text-4xl text-center tracking-tight mb-15;
 }
 
 .article > h2 {
-  @apply text-3xl tracking-tight;
+  @apply text-3xl tracking-tight mt-8;
 }
 
 .article > ol {

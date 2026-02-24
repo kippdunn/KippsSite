@@ -23,10 +23,14 @@ const getSortedArticles = (): ArticleItem[] => {
             title: matterResult.data.title,
             date: matterResult.data.date,
             category: matterResult.data.category,
+            published: matterResult.data.published === true || matterResult.data.published === 'true',
         }
     })
 
-    return allArticlesData.sort((a, b) => {
+    // Filter out articles that are not published
+    const filteredArticles = allArticlesData.filter(article => article.published)
+
+    return filteredArticles.sort((a, b) => {
         const format = "YYYY-MM-DD"
         const dateA = moment(a.date, format)
         const dateB = moment(b.date, format)
@@ -75,6 +79,7 @@ export const getArticleData = async (id: string) => {
         title: matterResult.data.title,
         category: matterResult.data.category,
         date: moment(matterResult.data.date, "YYYY-MM-DD").format("MMMM D, YYYY"),
+        published: matterResult.data.published === true || matterResult.data.published === 'true',
     }
 }
 

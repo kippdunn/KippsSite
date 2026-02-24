@@ -26,3 +26,7 @@
 > Expectations are resentments under construction.
 
 — **Anne Lamott**, _Bird by Bird: Some Instructions on Writing and Life (1994)_
+
+> Luck is the sum of our choices up until that moment.
+
+— **Kipp Dunn**
