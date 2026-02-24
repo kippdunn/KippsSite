@@ -17,7 +17,7 @@ const QuotesPage = async () => {
       <header className="font-cormorant-garamond font-light text-5xl text-neutral-900 text-center mb-8">
         <h1>Favorite Quotes</h1>
       </header>
-      <article className="article" dangerouslySetInnerHTML={{ __html: contentHtml }} />
+      <article className="quotes" dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </section>
   );
 };

@@ -28,9 +28,21 @@
 }
 
 .article > blockquote {
-  @apply pl-5 italic border-l-2 border-neutral-600 my-8;
+  @apply pl-5 italic border-l-2 border-neutral-600;
 }
 
 .article > p > img {
   @apply w-1/2 mx-auto;
+}
+
+.quotes {
+  @apply flex flex-col gap-3 text-lg tracking-wide mb-20;
+}
+
+.quotes > p {
+  @apply indent-12 mb-8;
+}
+
+.quotes > blockquote {
+  @apply pl-5 border-l-2 border-neutral-600;
 }
