@@ -40,5 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# generated content (auto-generated at build time)
+/src/generated/
+
 package-lock.json
 *.open-next/
