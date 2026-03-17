@@ -18,7 +18,7 @@ export const metadata = {
   title: "Kipp Dunn",
   description: "Website for the legendary, and extrodinarily humble, Kipp",
   icons: {
-    icon: '/kipp-site.png',
+    icon: '/kipp-site-2.png',
   },
 }
 
