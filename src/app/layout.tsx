@@ -14,10 +14,13 @@ const poppins = Poppins({
   weight: ["400", "600"],
 })
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "Kipp Dunn",
-  description: "",
-};
+  description: "Website for the legendary, and extrodinarily humble, Kipp",
+  icons: {
+    icon: '/kipp-site.png',
+  },
+}
 
 export default function RootLayout({
   children,
