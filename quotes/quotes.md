@@ -27,6 +27,14 @@
 
 — **Anne Lamott**, _Bird by Bird: Some Instructions on Writing and Life (1994)_
 
+> Even a fool who keeps silent is considered wise; when he closes his lips, he is deemed intelligent.
+
+— **Divinely inspired to King Solomon**, _Proverbs 17:28 (NIV)_
+
+> It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.
+
+— **Maurice Switzer**, _Mrs. Goose, Her Book (1907)_
+
 > Luck is the sum of our choices up until that moment.
 
 — **Kipp Dunn**
