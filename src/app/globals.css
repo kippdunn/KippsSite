@@ -46,3 +46,19 @@
 .quotes > blockquote {
   @apply pl-5 border-l-2 border-neutral-600;
 }
+
+.shower-thoughts {
+  @apply flex flex-col gap-3 text-lg tracking-wide mb-20;
+}
+
+.shower-thoughts > h1 {
+  @apply text-4xl text-center tracking-tight mb-15;
+}
+
+.shower-thoughts > h2 {
+  @apply text-3xl tracking-tight mt-8;
+}
+
+.shower-thoughts > p {
+  @apply indent-12 mb-3;
+}
