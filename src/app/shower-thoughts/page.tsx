@@ -19,7 +19,7 @@ const ShowerThoughtsPage = async () => {
 				<h1>Shower Thoughts</h1>
 			</header>
 			<div className="text-sm text-neutral-500 italic text-center mb-4">
-				This is simply a rough collection of thoughts that have gone through my head. They are not fully formed, and are not meant to be taken too seriously. They are mostly just here for me to have a place to store passing thoughts. 
+				This is simply a rough collection of thoughts that have gone through my head. They are not fully formed, and are not meant to be taken too seriously. They are mostly just here for me to have a place to store fleeting ideas. 
 			</div>
 
 			<article className="shower-thoughts" dangerouslySetInnerHTML={{ __html: contentHtml }} />
