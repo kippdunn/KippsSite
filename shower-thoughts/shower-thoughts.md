@@ -1,12 +1,20 @@
-## Making an impact
+## The Origin of Well-Known Quotes - 3.26.2026
+
+As I was collecting some of my favorite quotes for quotes page on this site, I was trying to collect the original sources as well. I found that a significant portion of the quotes I've always attributed to people had absolutely no sourcing at all! A lot of the earliest attribution was a random article decades after the death of the assumed author. These quotes often end up having seemingly endless origins, or are paraphrased beyond recognition and intent of original work. Ultimately, I suppose assigning authorship to a well-known person adds power and credibility to the phrase.
+
+## Using Tools for Consistency - 3.20.2026
+
+Consistency is by far the biggest factor in whether a behavior change is going to be successful. Some people use daily social media posts as a way for them to stick with something. Accountability partners might be one of the best. I have the goal of writing regularly. It may not always be insightful or particularly well written, but you don't hit a PR in the gym every day either. Showing up at all with the smallest of efforts consistently will have a massive impact in the long run.
+
+## Making an Impact - 3.18.2026
 
 In this mass information age, we seem to be spending an increasing amount of time focusing on what's going on towns away, cities away, states away, even countries away. The further out of our influence something is the more we want to focus on it. With rare exceptions, people can make a bigger impact on the world volunteering in our local communities in a week than a lifetime of online discourse.
 
-## De-escalation is easy
+## De-escalation is Easy - 3.17.2026
 
 Unless someone is heavily inebriated or ideologically captured, the vast majority of physical conflict can be de-escalated. If you're willing to say "Sorry about that" or "I didn't mean to offend" and remain calm, even when the other person is in the wrong, there's a good chance the conflict will fizzle, and you'll get to sleep in your own bed. I'm happy to lay my pride to the side to avoid a trip to the hospital or the back of a cruiser.
 
-## Choosing the correct reason makes decisions easy
+## Purpose Defines the Difficulty of Decisions - 3.16.2026
 
 When you want to make changes, but fail to stick with it, a lot of the time, I think it's because the reason for doing something might be superficial and poorly chosen. If your motivation for hitting the gym is to "lose weight and feel better" or "get strong and look better," that motivational fire can be easily quenched with a tasty piece of cake or a new jacket to cover the flub.
 
