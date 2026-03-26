@@ -22,6 +22,8 @@ export const metadata = {
   },
 }
 
+import Header from "@/components/Header";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -32,16 +34,7 @@ export default function RootLayout({
       <body
         className={`${cormorantGaramond.variable} ${poppins.variable} bg-neutral-100`}
       >
-        <nav className="w-full flex justify-between items-center px-8 py-4 shadow bg-white mb-8">
-          <a href="/" className="text-2xl font-bold hover:cursor-pointer">Kipp Dunn</a>
-          <div className="flex gap-6">
-            <a href="/about" className="hover:underline">About Me</a>
-            <a href="/quotes" className="hover:underline">Favorite Quotes</a>
-            <a href="/shower-thoughts" className="hover:underline">Shower Thoughts</a>
-            <a href="/posts" className="hover:underline">Posts</a>
-            <a href="/contact" className="hover:underline">Contact</a>
-          </div>
-        </nav>
+        <Header />
         {children}
       </body>
     </html>
