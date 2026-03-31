@@ -15,6 +15,10 @@
   @apply text-3xl tracking-tight mt-8;
 }
 
+.article > h4 {
+  @apply text-2xl tracking-tight mt-8;
+}
+
 .article > ol {
   @apply list-decimal flex flex-col mx-10 gap-2;
 }
@@ -31,8 +35,8 @@
   @apply pl-5 italic border-l-2 border-neutral-600;
 }
 
-.article > p > img {
-  @apply w-1/2 mx-auto;
+.article > p {
+  @apply indent-12 mb-3;
 }
 
 .quotes {

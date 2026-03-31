@@ -1,3 +1,10 @@
+## Confirmation Bias - 3.30.2026
+
+I remember when I was young, my parents got a van to replace the duct-taped, woodpanel station wagon. I never noticed the model before riding in it, but once I did, I noticed exactly how common Toyota Siennas were. Several in every parking lot. You couldn't make it to the high-way without passing a dozen of them. I remember thinking that probably everyone had that van. And every time I saw one, I felt justified in believing that.
+
+Confirmation bias is pretty easy to spot, but it's easy to think "since I'm self-aware, obviously I don't do that." Looking at how people I know personally, and people online consume information, other's confirmation bias behaviors is so incredibly obvious. But I of course, I'm too analytical and self-reflect too well to fall for such a trivial logical fallacy. Unfortunately, "self-awareness" is not a cure to confirmation bias and ends up as a reaffirmation method for flawed immunity. As a result, confirmation bias becomes doubly treacherous. 
+
+
 ## The Origin of Well-Known Quotes - 3.26.2026
 
 As I was collecting some of my favorite quotes for quotes page on this site, I was trying to collect the original sources as well. I found that a significant portion of the quotes I've always attributed to people had absolutely no sourcing at all! A lot of the earliest attribution was a random article decades after the death of the assumed author. These quotes often end up having seemingly endless origins, or are paraphrased beyond recognition and intent of original work. Ultimately, I suppose assigning authorship to a well-known person adds power and credibility to the phrase.

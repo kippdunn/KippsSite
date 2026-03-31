@@ -5,7 +5,7 @@ import React from "react";
 export default function Header() {
   const [menuOpen, setMenuOpen] = React.useState(false);
   return (
-    <nav className="w-full flex justify-between items-center px-8 py-4 shadow bg-white mb-8 relative">
+    <nav className="w-full flex justify-between items-center px-8 py-4 shadow bg-white mb-8 relative sticky top-0 z-50">
       <a href="/" className="text-2xl font-bold hover:cursor-pointer">Kipp Dunn</a>
       {/* Desktop nav */}
       <div className="hidden md:flex gap-6">
