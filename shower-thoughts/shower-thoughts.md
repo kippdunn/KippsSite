@@ -1,9 +1,14 @@
+## Motivational Speeches - 4.7.2026
+
+I really dislike motivational speeches/books. They can get you all fired up, but within the week, day, maybe even hour, the fire burns out. It's really the problem with chasing motivation in general. Motivation gets stuff done when you feel like it, which, speaking for myself, does not have a duration of enough time. Contrarily, discipline gets stuff done even when you don't want to. Ultimately, my issue with motivational speeches, self-help books, or similar forms of media/material, are a great way to make you feel good for a minute, with little or no real effect.
+
+I think of it Like using lighter fluid to start a campfire. It first seems like the fire is roaring, but within minutes it'll snuff out. But if you consistently and carefully add kindling just the right way and slowly build up to larger sticks and logs, you have a sustainable source of warmth and fuel.
+
 ## Confirmation Bias - 3.30.2026
 
 I remember when I was young, my parents got a van to replace the duct-taped, woodpanel station wagon. I never noticed the model before riding in it, but once I did, I noticed exactly how common Toyota Siennas were. Several in every parking lot. You couldn't make it to the high-way without passing a dozen of them. I remember thinking that probably everyone had that van. And every time I saw one, I felt justified in believing that.
 
-Confirmation bias is pretty easy to spot, but it's easy to think "since I'm self-aware, obviously I don't do that." Looking at how people I know personally, and people online consume information, other's confirmation bias behaviors is so incredibly obvious. But I of course, I'm too analytical and self-reflect too well to fall for such a trivial logical fallacy. Unfortunately, "self-awareness" is not a cure to confirmation bias and ends up as a reaffirmation method for flawed immunity. As a result, confirmation bias becomes doubly treacherous. 
-
+Confirmation bias is pretty easy to spot, but it's easy to think "since I'm self-aware, obviously I don't do that." Looking at how people I know personally, and people online consume information, other's confirmation bias behaviors is so incredibly obvious. But I of course, I'm too analytical and self-reflect too well to fall for such a trivial logical fallacy. Unfortunately, "self-awareness" is not a cure to confirmation bias and ends up as a reaffirmation method for flawed immunity. As a result, confirmation bias becomes doubly treacherous.
 
 ## The Origin of Well-Known Quotes - 3.26.2026
 

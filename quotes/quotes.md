@@ -35,6 +35,14 @@
 
 — **Maurice Switzer**, _Mrs. Goose, Her Book (1907)_
 
+> We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.
+
+— **Jim Rohn**, _“Adventures in Achievement” seminar series(~1960s-1970s)_
+
 > Luck is the sum of our choices up until that moment.
+
+— **Kipp Dunn**
+
+> As it is in most of the world, the people are great and the government sucks.
 
 — **Kipp Dunn**
