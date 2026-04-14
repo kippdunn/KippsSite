@@ -1,3 +1,17 @@
+## Injuries - 4.13.2026
+
+As a relatively active person, injuries are devastating. While it sucks when injuries prevent me from doing the activities I want, there is a much more negative impact. When I can't stay active, my health, happiness, and sanity all become at risk. Without physically strenuous activity pushing my heart and body to its limits, it's harder to do every day mundane things. Distractions fill up my field of view and tackling what needs to be done feels much more daunting. Vices become more attractive and consuming.
+
+So when injured, finding some sort of alternative exercise is extremely important. For me, virtually any injury restricts my ability to do my favorite form of exercise, jiujitsu. But I can still do sit-ups and squats with a shoulder injury, I can bench press, or pull-ups with a knee or hip injury. Now I just need to find the willpower to get past injury frustration and still do something.
+
+## People are Generally pretty cool - 4.9.2026
+
+It's easy to get caught up in world politics and subconsciously link people to politics or to their respective governments. Governments will start uncalled-for wars, enact and enforce insane legislation, and do everything they can to mask the humanity of their people. Turns out, that in most of the world, the people are great and the government sucks.
+
+You have dinner with people from different cultures, and you find out pretty quickly that they're in the same boat as you. I've yet to meet people from anywhere who aren't passionate about their culture's food. Just like your spouse, kids, or pastor, they have opinions, political and asinine that don't perfectly align with yours. They want the same things as you: safety, full bellies, and good company. It's awesome. 
+
+Even better, you can have amazing conversations with a language barrier. Can't really beat around the bush with carefully chosen language(which makes whining about politics practically impossible). So you end up telling stories and talking about history and cultures. You learn rather than argue. 10/10 try it out.
+
 ## Motivational Speeches - 4.7.2026
 
 I really dislike motivational speeches/books. They can get you all fired up, but within the week, day, maybe even hour, the fire burns out. It's really the problem with chasing motivation in general. Motivation gets stuff done when you feel like it, which, speaking for myself, does not have a duration of enough time. Contrarily, discipline gets stuff done even when you don't want to. Ultimately, my issue with motivational speeches, self-help books, or similar forms of media/material, are a great way to make you feel good for a minute, with little or no real effect.
