@@ -1,3 +1,21 @@
+## Confidence and Competence - 4.14.2026
+
+People have placed an overwhelming amount of effort and money into programs and re-education around self-esteem. Which superficially is really quite noble. With depression and suicides at horrid levels, it makes sense that as a society we would want to raise peoples self-worth. So we give out participation trophies. We tell people "you're a winner," or "you did great." 
+
+Opinions on this approach are deeply polarized. There's plenty of nuance here but ultimately, those in favor believe it is a great way to raise self-esteem and build others up. Those opposed believe it teaches that you don't have to work hard to be rewarded.
+
+I think there is merit to both arguments. Ultimately this ties back to one of the problems I have with "Self Help" literature. The goal always seems to be about trying to feel better about yourself. It's a way to build up your self-esteem and confidence without a necessary ingredient — competence.
+
+Confidence before competence is a child behind the wheel of a bulldozer. Competence with confidence is an F1 driver with a perfectly tuned engine. You don't need to be competent in everything to raise your confidence. You just need one area you have true competence in to raise you confidence, self-esteem, self-worth, or whatever you want to call it.
+
+
+## What would you tell him? - 4.14.2026
+
+I've thought about the question "If you could go back to your 13 year old self, what advice would you give him?" Gut response is "don't spend a dollar and put everything you make into bitcoin." Of course it really is a fascinating question. If you tell yourself not to make mistakes, then the path you go down would turn you into a different person. If you tell yourself to be weary of the things that broke you, the would you have ever been reforged into what you are now? 
+
+This isn't a terrible original train of thought, but it does cause reflection. If you could redo things or avoid paths or people, how would that have changed where you ended up? What lessons from your life have you forgotten about? 
+
+
 ## Injuries - 4.13.2026
 
 As a relatively active person, injuries are devastating. While it sucks when injuries prevent me from doing the activities I want, there is a much more negative impact. When I can't stay active, my health, happiness, and sanity all become at risk. Without physically strenuous activity pushing my heart and body to its limits, it's harder to do every day mundane things. Distractions fill up my field of view and tackling what needs to be done feels much more daunting. Vices become more attractive and consuming.
